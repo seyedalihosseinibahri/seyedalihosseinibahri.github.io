@@ -9,6 +9,9 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [music](http://www.spotify.com/)  
+* [wasting time](http://www.instagram.com/)  
+* [mafia game](http://www.discord.com/)  
+* [movies](http://www.netflix.com/)
 
 

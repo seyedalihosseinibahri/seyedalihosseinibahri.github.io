@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Quentin Tarantino](http://tarantino.info)
+* [ny](http://iloveny.com)
+* [andishe](http://homecity.com)
+* [iust](http://iust.ac.ir)
 

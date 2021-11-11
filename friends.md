@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+* [Sadra] (https://sadradadkhah.github.io)  
+* [Atila]  (https://attilaroshani.github.io)
+* [Eran]   (https://erfan-kalandi.github.io)
 
 
 
